@@ -1,10 +1,10 @@
 const messages = [
     "Are you sure?",
-    "Really sure??",
+    "I chiang tak tak maw??",
     "Are you positive?",
-    "Pookie please...",
+    "Boo please...",
     "Just think about it!",
-    "If you say no, I will be really sad...",
+    "If you say no, Tuesday Nightmare-i ka puan tir ang...",
     "I will be very sad...",
     "I will be very very very sad...",
     "Ok fine, I will stop asking...",
